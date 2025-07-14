@@ -1,0 +1,24 @@
+Application Name: Open Banking Platform  
+Role: Application Development and Enhancement
+Client: Axis Bank  
+
+Description	Technologies/ Tools	Skills
+Open Banking Platform application provides Indian Bank Services to partner apps through APIs which are exposed to partner over internet. APIs are managed on IBM APIC tool. The purpose of Open Banking Portal is to allow Partner App (Third Party) to access the financial services of Axis Bank such as Account Creation, FD, RD and many more. 
+•	These API calls are secured through three methods 
+o	2-way SSL 
+o	OAuth2 – Token Grant Type 
+o	IP Whitelisting 
+•	The API request gets route to the centralized integration ESB and Micro service Layer (To handle complex request). 
+•	Further, Micro service Layer connects to Backend System/Core System via ESB. 
+•	ESB utilizes third party APIs for checksums and customer due diligence like Hunter (To check fraudulent customer), NSDL (For PAN name verification).	
+• Database – MySQL database, available as a service on AWS. 
+• Devsecops – A standard methodology as per the Bank.
+• Kibana- Used to Monitor API Calls/ health.
+• Recon—Monitoring Dashboard for Transactions (FD).
+•Putty- For Linux Server Restarting (IDC).
+•Posidex - Technology for identity verification and validation solutions for the kyc authentication.
+
+	SQL
+	Linux
+	Confluence(For documentation)
+	Post man (for API Testing)
