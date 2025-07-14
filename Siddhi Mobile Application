@@ -1,1 +1,31 @@
+Application Name: Siddhi  
+Role: Application Development and Enhancement
+Client: Axis Bank 
+
+Description	Technologies/Tools	Skills
+
+Siddhi program is a marquee project of Axis Bank that seeks to integrate all the applications in a single platform and make the platform intelligent for the employees with the end goal of creating a digital, transparent and futuristic eco-system for the front-line sales and service team members. Siddhi will be a mobile first intelligent solution for all employees, currently interacting with different systems catering to different cohorts. 
+ 
+• APIs – will be exposed through the Banks API Gateway (IBM API Connect).
+• Micro services – will be developed on Node JS.
+• Database (DBAAS) – (Database as a service) MySQL database, available as a service on AWS. 
+• Enterprise Caching – Using Elastic cache.
+• Cloud – AWS will be the chosen cloud for deployments and Back-up. 
+• Devsecops – standard methodology as per the Bank.
+• Logging – using EFK as a service. 
+• Queuing – using Amazon SQS.	
+•	Kubernetes:-Where prods were implemented.
+•	Kibana: - API Logs. 
+•	Dynatrace: - Services Health Check. 
+•	OTRS: - Auto ticket will be raised whenever the Dynatrace services were affected hugely. 
+•	JIRA: - To raise a defect in Production. 
+•	Cloud Watch: - An AWS Technology which is used to Monitor the API's Activities.
+•	Firebase Crashlytics: - a real time crash reporting tool, helps you prioritize and fix your most pervasive crashes based on the impact on real users. 
+•	AWS RDP- an AWS Remote Desktop Protocol which is used to connect Desktop via Cloud Technology to check the API Logs.		Java 
+	SQL
+	AWS Cloud
+	 Kubernetes with CI/CD pipeline (to automate the cron jobs).
+
+
+
 
