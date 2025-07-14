@@ -2,10 +2,8 @@ Application Name: Siddhi
 Role: Application Development and Enhancement
 Client: Axis Bank 
 
-Description	Technologies/Tools	Skills
-
 Siddhi program is a marquee project of Axis Bank that seeks to integrate all the applications in a single platform and make the platform intelligent for the employees with the end goal of creating a digital, transparent and futuristic eco-system for the front-line sales and service team members. Siddhi will be a mobile first intelligent solution for all employees, currently interacting with different systems catering to different cohorts. 
- 
+
 • APIs – will be exposed through the Banks API Gateway (IBM API Connect).
 • Micro services – will be developed on Node JS.
 • Database (DBAAS) – (Database as a service) MySQL database, available as a service on AWS. 
